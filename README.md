@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## RAHUL'S RESUME
 
-You can use the [editor on GitHub](https://github.com/Rahul-Kaura/RahulResume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hello. I am a rising junio attending Lynbrook High School. I enjoy coding in Python, Java, and other languages in my free time. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### EXTRACURRICULARS
 
-### Markdown
+1. Mentor at KoreKloud
+2. Director at [The Human Tech Project](https://thehumantechproject.org)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### HACKATHON PARTICIPATION
 
-```markdown
-Syntax highlighted code block
+1. Co-Founder at [A-Z Hacks](https://www.a-zhacks.com)
+2. Vice President at [CuperHacks](https://cuperhacks.tk)
+3. Director of Tech and Logistics at [GeomHacks](https://geomhacks.com)
+4. Sponsorship Coordinator at [DubHacks 1]
+5. Director at [PlatHacks](plathacks.github.io)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### CONTACT
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Rahul-Kaura/RahulResume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Contact me at [rahulkaura2004@gmail.com](rahulkaura2004@gmail.com)!
+Check out my [GitHub](https://github.com/Rahul-Kaura)!
