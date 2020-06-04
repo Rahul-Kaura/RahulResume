@@ -1,6 +1,6 @@
 ## RAHUL'S RESUME
 
-Hello. I am a rising junio attending Lynbrook High School. I enjoy coding in Python, Java, and other languages in my free time. 
+Hello. I am a rising junior attending Lynbrook High School. I enjoy coding in Python, Java, and other languages in my free time. 
 
 ### EXTRACURRICULARS
 
